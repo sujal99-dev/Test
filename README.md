@@ -46,7 +46,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ### 3. Run the Python File
 
 ```bash
-python project1.py
+python house_price_prediction_model.py
 ```
 
 ## 📈 Future Improvements
